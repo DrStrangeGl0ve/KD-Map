@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Run Game Data Script</title>
+  </head>
+  <body>
+    <h1>Enter Data</h1>
+    <form id="data-form">
+      <label for="gameName">Riot ID:</label>
+      <input type="text" id="gameName" name="gameName" /><br /><br />
+      <label for="tagName">Tag Line (no hashtag)</label>
+      <input type="text" id="tagName" name="tagName" /><br /><br />
+      <label for="count">Number of games:</label>
+      <input type="text" id="count" name="count" /><br /><br />
+      <button type="submit">Submit</button>
+    </form>
+    <img id="result-image" src="" alt="Overlaid Image" style="display: none" />
+    <script>
+      document
+        .getElementById("data-form")
+        .addEventListener("submit", function (event) {
+          event.preventDefault();
+          const formData = new FormData(event.target);
+          fetch("/run_script", {
+            method: "POST",
+            body: formData,
+          })
+            .then((response) => response.json())
+            .then((data) => {
+              if (data.error) {
+                console.error("Error:", data.error);
+              } else {
+                console.log("Output:", data.output);
+                const resultImage = document.getElementById("result-image");
+                resultImage.src = data.image_url;
+                resultImage.style.display = "block";
+              }
+            })
+            .catch((error) => console.error("Error:", error));
+        });
+    </script>
+  </body>
+</html>
