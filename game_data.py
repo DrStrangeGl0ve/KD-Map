@@ -273,8 +273,8 @@ def analyze_kill_events(data):
 
     # Show the plot
     # Can comment this out if you don't want to display the plot anymore.
-    plt.show()
-    print("Plot displayed")
+    # plt.show()
+    # print("Plot displayed")
 
 
     # Rift image is in this directory
