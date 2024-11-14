@@ -1,0 +1,9 @@
+# IMPORTANT: You will need to add a config.py file to this root folder with the following line:
+# API_KEY = "key"
+# Replace "key" with your actual API key(as a string) from the Riot Games Developer Portal.
+# Include the config.py file in your .gitignore to avoid exposing your API key.
+# Remember that if you're on a Development API Key, you'll need to change this every 24 hours.
+
+###This app is not endorsed or affiliated with Riot Games. All trademarks and intellectual property are the property of their respective owners.###
+
+# Created by Logan G (github.com/DrStrangeGl0ve) with help from the Riot Games API and information found on the Third Party Developers Discord Server.
