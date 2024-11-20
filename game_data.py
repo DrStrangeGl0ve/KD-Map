@@ -13,10 +13,7 @@ tagName = sys.argv[2]
 matchCount = sys.argv[3]
 
 # IMPORTANT: Before you run this script, be sure to look at the README for instructions on how to store your API key for it to function properly.
-# Run this BEFORE running the analyze_kill_events.py script.
 
-# This is the initial script that you will run to collect the data from the Riot Games API.
-# It'll be output to the champion_kill_events.json file, which will be used in the analyze_kill_events.py script.
 
 # By default, this only checks games played on Summoner's rift. If you request 10 game records and only receive 6, it's because the other 4 games were not played on Summoner's Rift.
 
@@ -227,9 +224,9 @@ def analyze_kill_events(data):
         scaled_killer_x, scaled_killer_y = scale_coordinates(event['killer_position']['x'], event['killer_position']['y'])
         scaled_victim_x, scaled_victim_y = scale_coordinates(event['victim_position']['x'], event['victim_position']['y'])
         timestamp = convert_timestamp_to_minutes_seconds(event['game_time'])
-        if event['killer_name'] == player_name:  # Use the player's name from the JSON data
-            player_killer_positions.append((scaled_killer_x, scaled_killer_y))
-            player_killer_timestamps.append(timestamp)
+        #if event['killer_name'] == player_name:  # Use the player's name from the JSON data
+            #player_killer_positions.append((scaled_killer_x, scaled_killer_y))
+            #player_killer_timestamps.append(timestamp)
         if event['victim_name'] == player_name:  # Use the player's name from the JSON data
             player_victim_positions.append((scaled_victim_x, scaled_victim_y))
             player_victim_timestamps.append(timestamp)
@@ -237,7 +234,7 @@ def analyze_kill_events(data):
         table_data.append([timestamp, event['killer_name'], event['victim_name'], f"({scaled_killer_x}, {scaled_killer_y})", f"({scaled_victim_x}, {scaled_victim_y})",])
 
     # Display the data in a table using tabulate.
-    headers = ["Game Time", "Killer Name", "Victim Name", "Killer Position", "Victim Position", "Assisting Participant IDs"]
+    headers = ["Game Time", "Killer Name", "Victim Name", "Killer Position", "Victim Position"]
     print(tabulate.tabulate(table_data, headers=headers, tablefmt='fancy_grid'))
 
     # Create the plot using Matplotlib
@@ -247,10 +244,10 @@ def analyze_kill_events(data):
     ax.patch.set_alpha(0)
 
     # Apply the event points to the scatter plot using different colors for kills and deaths. The timestamps are annotated.
-    if player_killer_positions:
-        plt.scatter(*zip(*player_killer_positions), c='blue', label='Kill')
-        for (x, y), timestamp in zip(player_killer_positions, player_killer_timestamps):
-            plt.annotate(timestamp, (x, y), textcoords="offset points", xytext=(0,5), ha='center', fontsize=8, color='blue')
+    #if player_killer_positions:
+       #plt.scatter(*zip(*player_killer_positions), c='blue', label='Kill')
+        #for (x, y), timestamp in zip(player_killer_positions, player_killer_timestamps):
+           # plt.annotate(timestamp, (x, y), textcoords="offset points", xytext=(0,5), ha='center', fontsize=8, color='blue')
     if player_victim_positions:
         plt.scatter(*zip(*player_victim_positions), c='red', label='Death')
         for (x, y), timestamp in zip(player_victim_positions, player_victim_timestamps):

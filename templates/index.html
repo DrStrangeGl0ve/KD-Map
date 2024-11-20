@@ -1,15 +1,78 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0" />-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Why Did You Fight?</title>
+    <style>
+      body {
+        background-color: #013220; /* Dark green background */
+        color: #fff; /* White text color */
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px; /* Add padding to the body */
+        box-sizing: border-box;
+      }
+
+      h1 {
+        margin-bottom: 20px;
+        text-align: center;
+      }
+
+      form {
+        background: #fff;
+        color: #000;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        text-align: left;
+        margin: 0 auto; /* Center the form horizontally */
+        box-sizing: border-box;
+      }
+
+      form label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+
+      form input[type="text"] {
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
+
+      form button {
+        background: #333;
+        color: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+      }
+
+      form button:hover {
+        background: #555;
+      }
+
+      img {
+        margin-top: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    </style>
   </head>
   <body>
     <h1>Summoner Info</h1>
     <form id="data-form">
       <label for="gameName">Riot ID:</label>
       <input type="text" id="gameName" name="gameName" /><br /><br />
-      <label for="tagName">Tag Line (no hashtag)</label>
+      <label for="tagName">Tag Line (no hashtag):</label>
       <input type="text" id="tagName" name="tagName" /><br /><br />
       <label for="count">Number of games:</label>
       <input type="text" id="count" name="count" /><br /><br />
@@ -31,13 +94,14 @@
               if (data.error) {
                 console.error("Error:", data.error);
               } else {
-                console.log("Output:", data.output);
                 const resultImage = document.getElementById("result-image");
-                resultImage.src = data.image_url;
+                resultImage.src = "/static/overlaid_image.png"; // Set the correct image path
                 resultImage.style.display = "block";
               }
             })
-            .catch((error) => console.error("Error:", error));
+            .catch((error) => {
+              console.error("Error:", error);
+            });
         });
     </script>
   </body>
