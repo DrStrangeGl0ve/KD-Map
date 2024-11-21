@@ -2,14 +2,14 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Why Did You Die?</title>
+    <title>Why Did You Fight?</title>
     <style>
       body {
-        background-color: #013220; 
-        color: #fff; 
+        background-color: #013220; /* Dark green background */
+        color: #fff; /* White text color */
         font-family: Arial, sans-serif;
         margin: 0;
-        padding: 20px; 
+        padding: 20px; /* Add padding to the body */
         box-sizing: border-box;
       }
 
@@ -26,7 +26,7 @@
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         width: 300px;
         text-align: left;
-        margin: 0 auto; 
+        margin: 0 auto; /* Center the form horizontally */
         box-sizing: border-box;
       }
 
@@ -95,7 +95,7 @@
                 console.error("Error:", data.error);
               } else {
                 const resultImage = document.getElementById("result-image");
-                resultImage.src = "/static/overlaid_image.png"; 
+                resultImage.src = "/static/overlaid_image.png"; // Set the correct image path
                 resultImage.style.display = "block";
               }
             })
