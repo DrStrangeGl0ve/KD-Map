@@ -1,1542 +1,716 @@
 [
     {
-        "game_time": "632s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Blitzcrank",
+        "game_time": "324s",
+        "killer_name": "MissFortune",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 13582,
-            "y": 4170
+            "x": 10554,
+            "y": 2672
         },
         "victim_position": {
-            "x": 13582,
-            "y": 4170
+            "x": 10554,
+            "y": 2672
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "634s",
-        "killer_name": "Jhin",
-        "victim_name": "OldManLiver",
+        "game_time": "720s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Braum",
         "killer_position": {
-            "x": 13198,
-            "y": 3140
+            "x": 13147,
+            "y": 2630
         },
         "victim_position": {
-            "x": 13198,
-            "y": 3140
+            "x": 13147,
+            "y": 2630
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "700s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Jhin",
+        "game_time": "726s",
+        "killer_name": "MissFortune",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 11879,
-            "y": 1795
-        },
-        "victim_position": {
-            "x": 11879,
-            "y": 1795
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "701s",
-        "killer_name": "Warwick",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 9767,
-            "y": 1616
-        },
-        "victim_position": {
-            "x": 9767,
-            "y": 1616
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "764s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Warwick",
-        "killer_position": {
-            "x": 7529,
-            "y": 3653
-        },
-        "victim_position": {
-            "x": 7529,
-            "y": 3653
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "855s",
-        "killer_name": "Shaco",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 6184,
-            "y": 5767
-        },
-        "victim_position": {
-            "x": 6184,
-            "y": 5767
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "949s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Warwick",
-        "killer_position": {
-            "x": 5264,
-            "y": 9151
-        },
-        "victim_position": {
-            "x": 5264,
-            "y": 9151
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1069s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Warwick",
-        "killer_position": {
-            "x": 13016,
-            "y": 1944
-        },
-        "victim_position": {
-            "x": 13016,
-            "y": 1944
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1393s",
-        "killer_name": "Blitzcrank",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 12804,
-            "y": 5785
-        },
-        "victim_position": {
-            "x": 12804,
-            "y": 5785
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1504s",
-        "killer_name": "Heimerdinger",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 13802,
-            "y": 6549
-        },
-        "victim_position": {
-            "x": 13802,
-            "y": 6549
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1935s",
-        "killer_name": "Heimerdinger",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 2747,
-            "y": 3937
-        },
-        "victim_position": {
-            "x": 2747,
-            "y": 3937
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "512s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 13014,
-            "y": 3508
-        },
-        "victim_position": {
-            "x": 13014,
-            "y": 3508
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "527s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Jinx",
-        "killer_position": {
-            "x": 13280,
-            "y": 3960
-        },
-        "victim_position": {
-            "x": 13280,
-            "y": 3960
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "683s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 13580,
-            "y": 6670
-        },
-        "victim_position": {
-            "x": 13580,
-            "y": 6670
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "688s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Jinx",
-        "killer_position": {
-            "x": 13506,
-            "y": 8884
-        },
-        "victim_position": {
-            "x": 13506,
-            "y": 8884
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "755s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Ahri",
-        "killer_position": {
-            "x": 8301,
-            "y": 8797
-        },
-        "victim_position": {
-            "x": 8301,
-            "y": 8797
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "870s",
-        "killer_name": "OldManLiver",
-        "victim_name": "TahmKench",
-        "killer_position": {
-            "x": 5251,
-            "y": 13743
-        },
-        "victim_position": {
-            "x": 5251,
-            "y": 13743
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1062s",
-        "killer_name": "OldManLiver",
-        "victim_name": "TahmKench",
-        "killer_position": {
-            "x": 9023,
-            "y": 8742
-        },
-        "victim_position": {
-            "x": 9023,
-            "y": 8742
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1231s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 14094,
-            "y": 7903
-        },
-        "victim_position": {
-            "x": 14094,
-            "y": 7903
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1238s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Ahri",
-        "killer_position": {
-            "x": 13942,
-            "y": 6698
-        },
-        "victim_position": {
-            "x": 13942,
-            "y": 6698
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1346s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 12589,
-            "y": 10741
-        },
-        "victim_position": {
-            "x": 12589,
-            "y": 10741
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1370s",
-        "killer_name": "Jinx",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 10382,
-            "y": 8800
-        },
-        "victim_position": {
-            "x": 10382,
-            "y": 8800
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1463s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 5323,
-            "y": 10363
-        },
-        "victim_position": {
-            "x": 5323,
-            "y": 10363
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1510s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 12121,
-            "y": 13691
-        },
-        "victim_position": {
-            "x": 12121,
-            "y": 13691
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "187s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Yorick",
-        "killer_position": {
-            "x": 13620,
-            "y": 3560
-        },
-        "victim_position": {
-            "x": 13620,
-            "y": 3560
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "673s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 8744,
-            "y": 5510
-        },
-        "victim_position": {
-            "x": 8744,
-            "y": 5510
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "884s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Ashe",
-        "killer_position": {
-            "x": 13519,
-            "y": 7655
-        },
-        "victim_position": {
-            "x": 13519,
-            "y": 7655
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1095s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Yorick",
-        "killer_position": {
-            "x": 7835,
-            "y": 828
-        },
-        "victim_position": {
-            "x": 7835,
-            "y": 828
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1160s",
-        "killer_name": "Swain",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 4525,
-            "y": 4149
-        },
-        "victim_position": {
-            "x": 4525,
-            "y": 4149
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1227s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Briar",
-        "killer_position": {
-            "x": 12425,
-            "y": 5332
-        },
-        "victim_position": {
-            "x": 12425,
-            "y": 5332
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1319s",
-        "killer_name": "Briar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 6548,
-            "y": 4579
-        },
-        "victim_position": {
-            "x": 6548,
-            "y": 4579
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1461s",
-        "killer_name": "Briar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 1337,
-            "y": 6900
-        },
-        "victim_position": {
-            "x": 1337,
-            "y": 6900
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1660s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Swain",
-        "killer_position": {
-            "x": 4809,
-            "y": 1289
-        },
-        "victim_position": {
-            "x": 4809,
-            "y": 1289
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1661s",
-        "killer_name": "Ashe",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 3827,
-            "y": 1265
-        },
-        "victim_position": {
-            "x": 3827,
-            "y": 1265
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1663s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Ashe",
-        "killer_position": {
-            "x": 5590,
-            "y": 1247
-        },
-        "victim_position": {
-            "x": 5590,
-            "y": 1247
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1743s",
-        "killer_name": "Ashe",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 7358,
-            "y": 6922
-        },
-        "victim_position": {
-            "x": 7358,
-            "y": 6922
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1843s",
-        "killer_name": "Ashe",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 4027,
-            "y": 4564
-        },
-        "victim_position": {
-            "x": 4027,
-            "y": 4564
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2001s",
-        "killer_name": "Swain",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 3997,
-            "y": 4063
-        },
-        "victim_position": {
-            "x": 3997,
-            "y": 4063
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2134s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Ashe",
-        "killer_position": {
-            "x": 9148,
-            "y": 3741
-        },
-        "victim_position": {
-            "x": 9148,
-            "y": 3741
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2142s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Swain",
-        "killer_position": {
-            "x": 9457,
-            "y": 3534
-        },
-        "victim_position": {
-            "x": 9457,
-            "y": 3534
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2247s",
-        "killer_name": "Ashe",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 3857,
-            "y": 6079
-        },
-        "victim_position": {
-            "x": 3857,
-            "y": 6079
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2324s",
-        "killer_name": "Qiyana",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 1539,
-            "y": 2414
-        },
-        "victim_position": {
-            "x": 1539,
-            "y": 2414
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2326s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Swain",
-        "killer_position": {
-            "x": 2650,
+            "x": 13034,
             "y": 2476
         },
         "victim_position": {
-            "x": 2650,
+            "x": 13034,
             "y": 2476
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "241s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Yasuo",
+        "game_time": "782s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
         "killer_position": {
-            "x": 3233,
-            "y": 12396
+            "x": 13379,
+            "y": 2501
         },
         "victim_position": {
-            "x": 3233,
-            "y": 12396
+            "x": 13379,
+            "y": 2501
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "395s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Yasuo",
-        "killer_position": {
-            "x": 7523,
-            "y": 7781
-        },
-        "victim_position": {
-            "x": 7523,
-            "y": 7781
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "441s",
-        "killer_name": "Rengar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 7805,
-            "y": 6927
-        },
-        "victim_position": {
-            "x": 7805,
-            "y": 6927
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "567s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Yasuo",
-        "killer_position": {
-            "x": 6937,
-            "y": 6953
-        },
-        "victim_position": {
-            "x": 6937,
-            "y": 6953
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "628s",
-        "killer_name": "Rengar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 7368,
-            "y": 6118
-        },
-        "victim_position": {
-            "x": 7368,
-            "y": 6118
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "695s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Rengar",
-        "killer_position": {
-            "x": 1730,
-            "y": 9515
-        },
-        "victim_position": {
-            "x": 1730,
-            "y": 9515
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "710s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Yasuo",
-        "killer_position": {
-            "x": 4829,
-            "y": 10065
-        },
-        "victim_position": {
-            "x": 4829,
-            "y": 10065
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "808s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Rengar",
-        "killer_position": {
-            "x": 854,
-            "y": 9818
-        },
-        "victim_position": {
-            "x": 854,
-            "y": 9818
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "810s",
-        "killer_name": "Rengar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 900,
-            "y": 9036
-        },
-        "victim_position": {
-            "x": 900,
-            "y": 9036
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1102s",
-        "killer_name": "Jhin",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 9744,
-            "y": 1048
-        },
-        "victim_position": {
-            "x": 9744,
-            "y": 1048
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1225s",
-        "killer_name": "Yasuo",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 6279,
-            "y": 9082
-        },
-        "victim_position": {
-            "x": 6279,
-            "y": 9082
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1301s",
-        "killer_name": "Rengar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 7622,
-            "y": 3158
-        },
-        "victim_position": {
-            "x": 7622,
-            "y": 3158
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1457s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Jhin",
-        "killer_position": {
-            "x": 1555,
-            "y": 7273
-        },
-        "victim_position": {
-            "x": 1555,
-            "y": 7273
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1490s",
-        "killer_name": "Rengar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 5132,
-            "y": 8358
-        },
-        "victim_position": {
-            "x": 5132,
-            "y": 8358
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1573s",
-        "killer_name": "Rengar",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 5334,
-            "y": 5466
-        },
-        "victim_position": {
-            "x": 5334,
-            "y": 5466
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1659s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Jhin",
-        "killer_position": {
-            "x": 1043,
-            "y": 9216
-        },
-        "victim_position": {
-            "x": 1043,
-            "y": 9216
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1746s",
-        "killer_name": "Jhin",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 5469,
-            "y": 1347
-        },
-        "victim_position": {
-            "x": 5469,
-            "y": 1347
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "300s",
-        "killer_name": "Lillia",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 13054,
-            "y": 3332
-        },
-        "victim_position": {
-            "x": 13054,
-            "y": 3332
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "448s",
-        "killer_name": "Tristana",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 14078,
-            "y": 4373
-        },
-        "victim_position": {
-            "x": 14078,
-            "y": 4373
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "519s",
-        "killer_name": "Tristana",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 11944,
-            "y": 1134
-        },
-        "victim_position": {
-            "x": 11944,
-            "y": 1134
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "746s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Yone",
-        "killer_position": {
-            "x": 13929,
-            "y": 3627
-        },
-        "victim_position": {
-            "x": 13929,
-            "y": 3627
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "874s",
-        "killer_name": "Heimerdinger",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 1247,
-            "y": 11686
-        },
-        "victim_position": {
-            "x": 1247,
-            "y": 11686
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1127s",
-        "killer_name": "Tristana",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 9485,
-            "y": 1981
-        },
-        "victim_position": {
-            "x": 9485,
-            "y": 1981
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1354s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Heimerdinger",
-        "killer_position": {
-            "x": 5190,
-            "y": 13454
-        },
-        "victim_position": {
-            "x": 5190,
-            "y": 13454
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1389s",
-        "killer_name": "Ambessa",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 8868,
-            "y": 10894
-        },
-        "victim_position": {
-            "x": 8868,
-            "y": 10894
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1472s",
-        "killer_name": "Ambessa",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 8744,
-            "y": 8757
-        },
-        "victim_position": {
-            "x": 8744,
-            "y": 8757
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1558s",
-        "killer_name": "Yone",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 8454,
-            "y": 4854
-        },
-        "victim_position": {
-            "x": 8454,
-            "y": 4854
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1627s",
-        "killer_name": "Heimerdinger",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 5310,
-            "y": 12569
-        },
-        "victim_position": {
-            "x": 5310,
-            "y": 12569
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1890s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Ambessa",
-        "killer_position": {
-            "x": 5050,
-            "y": 13128
-        },
-        "victim_position": {
-            "x": 5050,
-            "y": 13128
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2031s",
-        "killer_name": "Tristana",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 11639,
-            "y": 9880
-        },
-        "victim_position": {
-            "x": 11639,
-            "y": 9880
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "2381s",
-        "killer_name": "Yone",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 7412,
-            "y": 7089
-        },
-        "victim_position": {
-            "x": 7412,
-            "y": 7089
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "554s",
-        "killer_name": "LeeSin",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 13721,
-            "y": 4062
-        },
-        "victim_position": {
-            "x": 13721,
-            "y": 4062
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1201s",
-        "killer_name": "Caitlyn",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 10350,
-            "y": 4369
-        },
-        "victim_position": {
-            "x": 10350,
-            "y": 4369
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1476s",
-        "killer_name": "OldManLiver",
-        "victim_name": "LeeSin",
-        "killer_position": {
-            "x": 4167,
-            "y": 9430
-        },
-        "victim_position": {
-            "x": 4167,
-            "y": 9430
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1482s",
-        "killer_name": "Caitlyn",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 4690,
-            "y": 8480
-        },
-        "victim_position": {
-            "x": 4690,
-            "y": 8480
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "162s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
-        "killer_position": {
-            "x": 13640,
-            "y": 4487
-        },
-        "victim_position": {
-            "x": 13640,
-            "y": 4487
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "289s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
-        "killer_position": {
-            "x": 13717,
-            "y": 4668
-        },
-        "victim_position": {
-            "x": 13717,
-            "y": 4668
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "306s",
-        "killer_name": "Zac",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 12889,
-            "y": 1713
-        },
-        "victim_position": {
-            "x": 12889,
-            "y": 1713
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "374s",
-        "killer_name": "Zac",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 13692,
-            "y": 2955
-        },
-        "victim_position": {
-            "x": 13692,
-            "y": 2955
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "507s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
-        "killer_position": {
-            "x": 13422,
-            "y": 2510
-        },
-        "victim_position": {
-            "x": 13422,
-            "y": 2510
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "516s",
-        "killer_name": "Zac",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 13027,
-            "y": 3004
-        },
-        "victim_position": {
-            "x": 13027,
-            "y": 3004
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "778s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
-        "killer_position": {
-            "x": 13732,
-            "y": 4425
-        },
-        "victim_position": {
-            "x": 13732,
-            "y": 4425
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "916s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
-        "killer_position": {
-            "x": 13113,
-            "y": 5371
-        },
-        "victim_position": {
-            "x": 13113,
-            "y": 5371
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "924s",
-        "killer_name": "Volibear",
-        "victim_name": "OldManLiver",
-        "killer_position": {
-            "x": 13143,
-            "y": 5568
-        },
-        "victim_position": {
-            "x": 13143,
-            "y": 5568
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1051s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
-        "killer_position": {
-            "x": 8760,
-            "y": 8633
-        },
-        "victim_position": {
-            "x": 8760,
-            "y": 8633
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1074s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Zac",
-        "killer_position": {
-            "x": 8424,
-            "y": 7787
-        },
-        "victim_position": {
-            "x": 8424,
-            "y": 7787
-        },
-        "player_name": "OldManLiver"
-    },
-    {
-        "game_time": "1410s",
-        "killer_name": "OldManLiver",
+        "game_time": "806s",
+        "killer_name": "DrStrangeGl0ve",
         "victim_name": "Volibear",
         "killer_position": {
-            "x": 7904,
-            "y": 10791
+            "x": 11520,
+            "y": 3983
         },
         "victim_position": {
-            "x": 7904,
-            "y": 10791
+            "x": 11520,
+            "y": 3983
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1430s",
-        "killer_name": "Darius",
-        "victim_name": "OldManLiver",
+        "game_time": "1049s",
+        "killer_name": "Braum",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 5695,
-            "y": 11101
+            "x": 12905,
+            "y": 3408
         },
         "victim_position": {
-            "x": 5695,
-            "y": 11101
+            "x": 12905,
+            "y": 3408
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1529s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Hwei",
+        "game_time": "1199s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Seraphine",
         "killer_position": {
-            "x": 10176,
-            "y": 7378
+            "x": 13745,
+            "y": 5122
         },
         "victim_position": {
-            "x": 10176,
-            "y": 7378
+            "x": 13745,
+            "y": 5122
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1544s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Zac",
+        "game_time": "1207s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Volibear",
         "killer_position": {
-            "x": 11213,
-            "y": 4540
+            "x": 13369,
+            "y": 5206
         },
         "victim_position": {
-            "x": 11213,
-            "y": 4540
+            "x": 13369,
+            "y": 5206
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1607s",
-        "killer_name": "Caitlyn",
-        "victim_name": "OldManLiver",
+        "game_time": "1341s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Braum",
         "killer_position": {
-            "x": 13224,
-            "y": 6765
+            "x": 8468,
+            "y": 7295
         },
         "victim_position": {
-            "x": 13224,
-            "y": 6765
+            "x": 8468,
+            "y": 7295
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1761s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
+        "game_time": "1345s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Seraphine",
         "killer_position": {
-            "x": 13759,
-            "y": 9300
+            "x": 8930,
+            "y": 8687
         },
         "victim_position": {
-            "x": 13759,
-            "y": 9300
+            "x": 8930,
+            "y": 8687
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1765s",
-        "killer_name": "Hwei",
-        "victim_name": "OldManLiver",
+        "game_time": "1348s",
+        "killer_name": "MissFortune",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 13373,
-            "y": 8349
+            "x": 8974,
+            "y": 8323
         },
         "victim_position": {
-            "x": 13373,
-            "y": 8349
+            "x": 8974,
+            "y": 8323
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1885s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Zac",
+        "game_time": "1348s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
         "killer_position": {
-            "x": 11155,
-            "y": 7106
+            "x": 9371,
+            "y": 8763
         },
         "victim_position": {
-            "x": 11155,
-            "y": 7106
+            "x": 9371,
+            "y": 8763
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "2065s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Zac",
+        "game_time": "1500s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Braum",
         "killer_position": {
-            "x": 9137,
-            "y": 8455
+            "x": 5428,
+            "y": 10126
         },
         "victim_position": {
-            "x": 9137,
-            "y": 8455
+            "x": 5428,
+            "y": 10126
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "2183s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Caitlyn",
+        "game_time": "1503s",
+        "killer_name": "Volibear",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 10029,
-            "y": 10043
+            "x": 4431,
+            "y": 10751
         },
         "victim_position": {
-            "x": 10029,
-            "y": 10043
+            "x": 4431,
+            "y": 10751
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "2184s",
-        "killer_name": "Hwei",
-        "victim_name": "OldManLiver",
+        "game_time": "1614s",
+        "killer_name": "MissFortune",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 9337,
-            "y": 9882
+            "x": 6150,
+            "y": 6035
         },
         "victim_position": {
-            "x": 9337,
-            "y": 9882
+            "x": 6150,
+            "y": 6035
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "239s",
-        "killer_name": "Vayne",
-        "victim_name": "OldManLiver",
+        "game_time": "1762s",
+        "killer_name": "Volibear",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 13328,
-            "y": 3180
+            "x": 9962,
+            "y": 5845
         },
         "victim_position": {
-            "x": 13328,
-            "y": 3180
+            "x": 9962,
+            "y": 5845
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "351s",
-        "killer_name": "Leona",
-        "victim_name": "OldManLiver",
+        "game_time": "2166s",
+        "killer_name": "Volibear",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 13481,
-            "y": 4658
+            "x": 9914,
+            "y": 7212
         },
         "victim_position": {
-            "x": 13481,
-            "y": 4658
+            "x": 9914,
+            "y": 7212
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "580s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Vayne",
+        "game_time": "2319s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Braum",
         "killer_position": {
-            "x": 11593,
-            "y": 1367
+            "x": 4733,
+            "y": 9036
         },
         "victim_position": {
-            "x": 11593,
-            "y": 1367
+            "x": 4733,
+            "y": 9036
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "630s",
-        "killer_name": "Vayne",
-        "victim_name": "OldManLiver",
+        "game_time": "2498s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Volibear",
         "killer_position": {
-            "x": 11436,
-            "y": 1172
+            "x": 10066,
+            "y": 4702
         },
         "victim_position": {
-            "x": 11436,
-            "y": 1172
+            "x": 10066,
+            "y": 4702
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "894s",
-        "killer_name": "Vayne",
-        "victim_name": "OldManLiver",
+        "game_time": "2499s",
+        "killer_name": "MissFortune",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 13492,
-            "y": 1878
+            "x": 9672,
+            "y": 5259
         },
         "victim_position": {
-            "x": 13492,
-            "y": 1878
+            "x": 9672,
+            "y": 5259
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1033s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Leona",
+        "game_time": "228s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Braum",
         "killer_position": {
-            "x": 5367,
-            "y": 12864
+            "x": 10079,
+            "y": 1244
         },
         "victim_position": {
-            "x": 5367,
-            "y": 12864
+            "x": 10079,
+            "y": 1244
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1275s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Viktor",
+        "game_time": "826s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Braum",
         "killer_position": {
-            "x": 8645,
-            "y": 5818
+            "x": 11093,
+            "y": 3774
         },
         "victim_position": {
-            "x": 8645,
-            "y": 5818
+            "x": 11093,
+            "y": 3774
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1289s",
-        "killer_name": "Kayn",
-        "victim_name": "OldManLiver",
+        "game_time": "839s",
+        "killer_name": "Viego",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 8280,
-            "y": 6631
+            "x": 10974,
+            "y": 3367
         },
         "victim_position": {
-            "x": 8280,
-            "y": 6631
+            "x": 10974,
+            "y": 3367
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1382s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Leona",
+        "game_time": "1056s",
+        "killer_name": "MissFortune",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 3120,
-            "y": 3880
+            "x": 11641,
+            "y": 1749
         },
         "victim_position": {
-            "x": 3120,
-            "y": 3880
+            "x": 11641,
+            "y": 1749
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
     },
     {
-        "game_time": "1411s",
-        "killer_name": "OldManLiver",
-        "victim_name": "Kayn",
+        "game_time": "1190s",
+        "killer_name": "Viego",
+        "victim_name": "DrStrangeGl0ve",
         "killer_position": {
-            "x": 2594,
-            "y": 3928
+            "x": 9717,
+            "y": 5640
         },
         "victim_position": {
-            "x": 2594,
-            "y": 3928
+            "x": 9717,
+            "y": 5640
         },
-        "player_name": "OldManLiver"
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1383s",
+        "killer_name": "Viego",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 9369,
+            "y": 10012
+        },
+        "victim_position": {
+            "x": 9369,
+            "y": 10012
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1652s",
+        "killer_name": "Viego",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 8325,
+            "y": 13252
+        },
+        "victim_position": {
+            "x": 8325,
+            "y": 13252
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1847s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Heimerdinger",
+        "killer_position": {
+            "x": 13888,
+            "y": 4153
+        },
+        "victim_position": {
+            "x": 13888,
+            "y": 4153
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "2048s",
+        "killer_name": "Heimerdinger",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 5933,
+            "y": 10578
+        },
+        "victim_position": {
+            "x": 5933,
+            "y": 10578
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "2156s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Viego",
+        "killer_position": {
+            "x": 10132,
+            "y": 8918
+        },
+        "victim_position": {
+            "x": 10132,
+            "y": 8918
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "2253s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Heimerdinger",
+        "killer_position": {
+            "x": 9480,
+            "y": 9598
+        },
+        "victim_position": {
+            "x": 9480,
+            "y": 9598
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "2258s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
+        "killer_position": {
+            "x": 7847,
+            "y": 7829
+        },
+        "victim_position": {
+            "x": 7847,
+            "y": 7829
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "2262s",
+        "killer_name": "Viego",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 7645,
+            "y": 7892
+        },
+        "victim_position": {
+            "x": 7645,
+            "y": 7892
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "2365s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
+        "killer_position": {
+            "x": 10436,
+            "y": 11725
+        },
+        "victim_position": {
+            "x": 10436,
+            "y": 11725
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "2367s",
+        "killer_name": "Lux",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 10603,
+            "y": 11353
+        },
+        "victim_position": {
+            "x": 10603,
+            "y": 11353
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "121s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
+        "killer_position": {
+            "x": 13712,
+            "y": 4130
+        },
+        "victim_position": {
+            "x": 13712,
+            "y": 4130
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "958s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
+        "killer_position": {
+            "x": 14102,
+            "y": 5067
+        },
+        "victim_position": {
+            "x": 14102,
+            "y": 5067
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "962s",
+        "killer_name": "MissFortune",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 12301,
+            "y": 5112
+        },
+        "victim_position": {
+            "x": 12301,
+            "y": 5112
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1026s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Lux",
+        "killer_position": {
+            "x": 12020,
+            "y": 2138
+        },
+        "victim_position": {
+            "x": 12020,
+            "y": 2138
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1215s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Lux",
+        "killer_position": {
+            "x": 11483,
+            "y": 4683
+        },
+        "victim_position": {
+            "x": 11483,
+            "y": 4683
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1222s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Brand",
+        "killer_position": {
+            "x": 12911,
+            "y": 5869
+        },
+        "victim_position": {
+            "x": 12911,
+            "y": 5869
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1414s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Lux",
+        "killer_position": {
+            "x": 6589,
+            "y": 7109
+        },
+        "victim_position": {
+            "x": 6589,
+            "y": 7109
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1522s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Sett",
+        "killer_position": {
+            "x": 9479,
+            "y": 4772
+        },
+        "victim_position": {
+            "x": 9479,
+            "y": 4772
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1527s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Brand",
+        "killer_position": {
+            "x": 10004,
+            "y": 5287
+        },
+        "victim_position": {
+            "x": 10004,
+            "y": 5287
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1531s",
+        "killer_name": "Brand",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 10097,
+            "y": 5712
+        },
+        "victim_position": {
+            "x": 10097,
+            "y": 5712
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1612s",
+        "killer_name": "Brand",
+        "victim_name": "DrStrangeGl0ve",
+        "killer_position": {
+            "x": 6151,
+            "y": 6124
+        },
+        "victim_position": {
+            "x": 6151,
+            "y": 6124
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1695s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Sett",
+        "killer_position": {
+            "x": 4716,
+            "y": 10458
+        },
+        "victim_position": {
+            "x": 4716,
+            "y": 10458
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1696s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Lux",
+        "killer_position": {
+            "x": 4714,
+            "y": 10762
+        },
+        "victim_position": {
+            "x": 4714,
+            "y": 10762
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1702s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "Brand",
+        "killer_position": {
+            "x": 5723,
+            "y": 10979
+        },
+        "victim_position": {
+            "x": 5723,
+            "y": 10979
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1705s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
+        "killer_position": {
+            "x": 7144,
+            "y": 11444
+        },
+        "victim_position": {
+            "x": 7144,
+            "y": 11444
+        },
+        "player_name": "DrStrangeGl0ve"
+    },
+    {
+        "game_time": "1880s",
+        "killer_name": "DrStrangeGl0ve",
+        "victim_name": "MissFortune",
+        "killer_position": {
+            "x": 13500,
+            "y": 12707
+        },
+        "victim_position": {
+            "x": 13500,
+            "y": 12707
+        },
+        "player_name": "DrStrangeGl0ve"
     }
 ]
