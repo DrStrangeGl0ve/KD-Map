@@ -15,9 +15,6 @@ matchCount = sys.argv[3]
 # IMPORTANT: Before you run this script, be sure to look at the README for instructions on how to store your API key for it to function properly.
 
 
-# By default, this only checks games played on Summoner's rift. If you request 10 game records and only receive 6, it's because the other 4 games were not played on Summoner's Rift.
-
-
 # The URLS for the North America region of the Riot Games API. You can change these to match your region if you're not in NA.
 PLAYER_URL = "https://americas.api.riotgames.com/riot/account/v1/accounts/by-riot-id/"
 MATCHES_URL = 'https://americas.api.riotgames.com/lol/match/v5/matches/'
@@ -87,10 +84,10 @@ def save_puuid_to_file(puuid, filename='puuid_data.txt'):
         file.write(puuid)
     print(f"PUUID saved to {filename}")
 
-# This uses the PUUID to get the specified number of match IDs for the player. The default is 20, but you can use up to 100. The match IDs are used to get the match details.
+# This uses the PUUID to get the specified number of match IDs on Summoner's Rift for the player. The default is 20, but you can use up to 100. The match IDs are used to get the match details.
 # WARNING: This can use A LOT of API calls, so be careful with this one.
 def get_match_id(puuid, count):
-    url = f"{MATCHES_URL}by-puuid/{puuid}/ids?start=0&count={count}"
+    url = f"{MATCHES_URL}by-puuid/{puuid}/ids?queue=0&start=0&count={count}"
     headers = {
         "X-Riot-Token": API_KEY
     }
@@ -204,7 +201,7 @@ def load_champion_kill_events(filename='champion_kill_events.json'):
 
 
 
-# Print the number of API calls made. This may or may not be accurate. No guarantees on that. Sorry!
+# Print the number of API calls made. This may or may not be completely accurate. No guarantees on that. Sorry!
 print(f"Total API calls made: {api_call_count}")
 
 # Function to analyze the kill events and plot the data
@@ -230,12 +227,8 @@ def analyze_kill_events(data):
         if event['victim_name'] == player_name:  # Use the player's name from the JSON data
             player_victim_positions.append((scaled_victim_x, scaled_victim_y))
             player_victim_timestamps.append(timestamp)
-        # Append the data to the table before restarting the loop
-        table_data.append([timestamp, event['killer_name'], event['victim_name'], f"({scaled_killer_x}, {scaled_killer_y})", f"({scaled_victim_x}, {scaled_victim_y})",])
-
-    # Display the data in a table using tabulate.
-    headers = ["Game Time", "Killer Name", "Victim Name", "Killer Position", "Victim Position"]
-    print(tabulate.tabulate(table_data, headers=headers, tablefmt='fancy_grid'))
+      
+   
 
     # Create the plot using Matplotlib
     fig, ax = plt.figure(figsize=(8, 8)), plt.gca()
@@ -277,7 +270,7 @@ def analyze_kill_events(data):
     # Rift image is in this directory
     summoners_rift_image_path = 'summoners_rift.png'
     # Creates a path for the overlaid image
-    output_image_path = 'static/overlaid_image.png'
+    output_image_path = '/static/overlaid_image.png'
 
 
     # Opens both images, covert them to RGBA, and resizes the overlay image to the base image size
