@@ -3,11 +3,11 @@ import requests
 import time
 import json
 import tabulate
-from config import API_KEY
+from config import Config
 from PIL import Image
 import matplotlib.pyplot as plt
 
-
+API_KEY = Config.API_KEY
 gameName = sys.argv[1]
 tagName = sys.argv[2]
 matchCount = sys.argv[3]
