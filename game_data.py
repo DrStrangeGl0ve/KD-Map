@@ -270,7 +270,7 @@ def analyze_kill_events(data):
     # Rift image is in this directory
     summoners_rift_image_path = 'summoners_rift.png'
     # Creates a path for the overlaid image
-    output_image_path = 'static/overlaid_image.png'
+    output_image_path = '/static/overlaid_image.png'
 
 
     # Opens both images, covert them to RGBA, and resizes the overlay image to the base image size
