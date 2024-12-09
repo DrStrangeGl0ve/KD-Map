@@ -7,7 +7,9 @@ from config import Config
 from PIL import Image
 import matplotlib.pyplot as plt
 
+
 API_KEY = Config.API_KEY
+
 gameName = sys.argv[1]
 tagName = sys.argv[2]
 matchCount = sys.argv[3]
@@ -158,7 +160,6 @@ playerData = get_player_data(gameName, tagName)
 
 # If it's valid, ask for match count, get match IDs, and get match details
 if playerData:
-    
     match_ids= get_match_id(playerData['puuid'], matchCount)
     all_events_data = []
     for match_id in match_ids:
@@ -261,29 +262,23 @@ def analyze_kill_events(data):
     plt.savefig(transparent_png_path, bbox_inches='tight', pad_inches=0, dpi=200, transparent=True)
     print("Plot saved as champion_kill_positions.png")
 
-    # Show the plot
-    # Can comment this out if you don't want to display the plot anymore.
-    # plt.show()
-    # print("Plot displayed")
-
-
     # Rift image is in this directory
-    summoners_rift_image_path = 'summoners_rift.png'
+    #summoners_rift_image_path = 'summoners_rift.png'
     # Creates a path for the overlaid image
-    output_image_path = 'static/overlaid_image.png'
+    #output_image_path = 'static/overlaid_image.png'
 
 
     # Opens both images, covert them to RGBA, and resizes the overlay image to the base image size
-    base_image = Image.open(summoners_rift_image_path).convert("RGBA")
-    overlay_image = Image.open(transparent_png_path).convert("RGBA")
-    overlay_image = overlay_image.resize(base_image.size, Image.LANCZOS)
+    #base_image = Image.open(summoners_rift_image_path).convert("RGBA")
+    #overlay_image = Image.open(transparent_png_path).convert("RGBA")
+    #overlay_image = overlay_image.resize(base_image.size, Image.LANCZOS)
 
     # Combine the images
-    combined_image = Image.alpha_composite(base_image, overlay_image)
+    #combined_image = Image.alpha_composite(base_image, overlay_image)
 
     # Save the combined image and output.
-    combined_image.save(output_image_path)
-    print(f"Overlaid image saved as {output_image_path}")
+    #combined_image.save(output_image_path)
+    #print(f"Overlaid image saved as {output_image_path}")
 
 
 # Analyze and output the kill events
