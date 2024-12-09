@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, jsonify, send_file
 import subprocess
 from PIL import Image
+import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
@@ -45,4 +46,3 @@ def generate_image():
 
 if __name__ == '__main__':
     app.run(debug=True)
-
